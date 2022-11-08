@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "name": "gmod-audio-converter",
+  "version": "1.0.0",
+  "description": "Converts audio files to wav with 44100 samplerate",
+  "keywords": [
+    "gmod"
+  ],
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {},
+  "author": "NotSoKodya",
+  "license": "MIT",
+  "repository": "git://github.com/notsokodya/gmod-audio-converter.git"
+}
